@@ -1,1 +1,0 @@
-curso, semestre, turno = "ADS", 2,     
